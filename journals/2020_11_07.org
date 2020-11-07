@@ -1,3 +1,4 @@
 #+TITLE: Nov 7th, 2020
 
 ** first item in the notes!
+** second itme in the notes!
