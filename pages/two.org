@@ -1,0 +1,4 @@
+#+TITLE: two
+
+** this is page two
+** a pointer to [[one][link to page one]]
